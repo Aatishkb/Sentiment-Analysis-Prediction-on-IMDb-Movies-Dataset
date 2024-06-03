@@ -8,4 +8,4 @@ This project performs sentiment analysis on movie reviews from the IMDb dataset.
 
 The dataset used is the IMDb Large Movie Review Dataset, consisting of 50,000 highly polar movie reviews. The data is split evenly into 25,000 training samples and 25,000 testing samples, with a balanced distribution of positive and negative reviews.
 
-#Thank You! 
+# Thank You! 
